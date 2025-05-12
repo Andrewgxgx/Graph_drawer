@@ -57,7 +57,7 @@ python draw.py
 
 # Screenshots
 - Yes you can chose ur own colors. 
-![S1](https://files.catbox.moe/ixa657.png)
+![S1](https://files.catbox.moe/ob6zdv.png)
 ![S2](https://files.catbox.moe/ox6e9o.png)
 
 # See generated Pdfs 
