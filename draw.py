@@ -1,5 +1,5 @@
 """
-Star this project on Github - https://github.com/Andrewgxgx/Graph_drawer
+Star this repo on Github - https://github.com/Andrewgxgx/Graph_drawer
 This script generates a PDF file with a grid of squares, allowing the user to specify the size of the squares and the color of the lines.
 It uses the ReportLab library to create the PDF and draw the grid.
 Written by Andrew Gx (https://andrewgx.site)
