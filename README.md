@@ -1,6 +1,6 @@
 # Graph_drawer
 Stunning graph paper generator written in python :D
-- Star this project if you like this small script :D
+- Star this repo if you like this small script :D
 - This project was written by [Andrew](https://andrewgx.site)
 # Contents
 - [Quick Start Guide](#quick-start-guide)
